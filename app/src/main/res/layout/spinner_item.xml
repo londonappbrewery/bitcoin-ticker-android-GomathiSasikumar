@@ -9,4 +9,5 @@
     android:textStyle="bold"
     android:gravity="start"
     android:textColor="@color/black"
-    android:text="@string/label_error_text" />
+    android:text="@string/label_error_text"
+    />
